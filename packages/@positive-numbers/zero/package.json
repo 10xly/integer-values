@@ -1,0 +1,31 @@
+{
+  "name": "@positive-numbers/zero",
+  "version": "3.0.0",
+  "description": "The number 0 exported as an npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "positive",
+    "0",
+    "zero"
+  ],
+  "author": "tj-commits",
+  "license": "ISC",
+  "dependencies": {
+    "number-zero": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-constant/positive-numbers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/js-constant/positive-numbers/issues"
+  },
+  "homepage": "https://github.com/js-constant/positive-numbers#readme"
+}
