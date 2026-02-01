@@ -1,0 +1,33 @@
+{
+  "name": "integer-value-positive-three",
+  "version": "1.0.1",
+  "description": "Three.",
+  "keywords": [
+    "three",
+    "four",
+    "five",
+    "six"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-three#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "add-two-numbers2": "^1.0.0",
+    "five": "^0.8.0",
+    "jquery-basic-arithmetic-plugin": "^1.1.0",
+    "make-jquery-global": "^1.0.1"
+  },
+  "devDependencies": {}
+}

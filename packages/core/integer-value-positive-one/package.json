@@ -1,0 +1,31 @@
+{
+  "name": "integer-value-positive-one",
+  "version": "1.0.3",
+  "description": "One.",
+  "keywords": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/core/packages/integer-value-positive-one#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git#main"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@andreaspizsa/true": "1.0.1"
+  },
+  "devDependencies": {}
+}

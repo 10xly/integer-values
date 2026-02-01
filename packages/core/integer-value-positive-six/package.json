@@ -1,0 +1,30 @@
+{
+  "name": "integer-value-positive-six",
+  "version": "1.0.2",
+  "description": "Six.",
+  "keywords": [
+    "six",
+    "seven",
+    "eight",
+    "nine"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-six#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "const": "^1.0.0",
+    "number-six": "^1.0.1"
+  }
+}

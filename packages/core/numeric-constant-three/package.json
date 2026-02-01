@@ -1,0 +1,27 @@
+{
+  "name": "numeric-constant-three",
+  "version": "1.0.1",
+  "description": "Three is the number before four",
+  "keywords": [
+    "t"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/numeric-constant-three#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "me",
+  "type": "commonjs",
+  "main": "Thr3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "math-intrinsics": "1.1.0",
+    "math.pi": "1.0.0"
+  }
+}

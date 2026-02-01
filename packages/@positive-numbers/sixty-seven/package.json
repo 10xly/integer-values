@@ -1,6 +1,6 @@
 {
   "name": "@positive-numbers/sixty-seven",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "The number 67 exported as an npm package.",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
   "author": "tj-commits",
   "license": "ISC",
   "dependencies": {
-    "five": "*"
+    "five": "*",
+    "sixty-seven": "1.0.0"
   },
   "publishConfig": {
     "access": "public"

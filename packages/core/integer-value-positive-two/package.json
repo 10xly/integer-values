@@ -1,0 +1,30 @@
+{
+  "name": "integer-value-positive-two",
+  "version": "1.0.1",
+  "description": "Two.",
+  "keywords": [
+    "two",
+    "three",
+    "four",
+    "five"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-two#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es-two": "^1.0.0"
+  },
+  "devDependencies": {}
+}

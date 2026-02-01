@@ -1,0 +1,30 @@
+{
+  "name": "integer-value-positive-seven",
+  "version": "1.0.2",
+  "description": "Seven.",
+  "keywords": [
+    "seven",
+    "seven",
+    "eight",
+    "nine"
+  ],
+  "homepage": "https://github.com/10xly/integer-values#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "se7en": "^1.0.0"
+  },
+  "devDependencies": {}
+}

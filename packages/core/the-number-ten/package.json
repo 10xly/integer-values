@@ -1,0 +1,32 @@
+{
+  "name": "the-number-ten",
+  "version": "0.0.3",
+  "description": "10x the-number-one",
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/the-number-ten#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "garbage": "^0.0.0",
+    "jquery": "^3.7.1",
+    "jquery-basic-arithmetic-plugin": "^1.1.0",
+    "libvegetable": "^1.0.0",
+    "make-jquery-global": "1.0.5",
+    "none": "^1.0.0",
+    "the-number-one": "^1.0.1",
+    "vanilla-javascript": "^1.1.1",
+    "vapor-js-npm": "^1.4.6"
+  },
+  "devDependencies": {}
+}

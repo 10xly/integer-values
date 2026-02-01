@@ -1,0 +1,30 @@
+{
+  "name": "number-six",
+  "version": "1.0.2",
+  "description": "number 6",
+  "keywords": [
+    "six",
+    "six",
+    "six",
+    "six"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/number-six#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "Six.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sixteen-constant": "^1.0.0",
+    "stevelib": "^1.0.0"
+  }
+}

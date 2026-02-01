@@ -1,0 +1,1 @@
+module.exports = require('lodash.constant')(require('successor')(require('eleven')()))

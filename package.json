@@ -1,6 +1,6 @@
 {
   "name": "integer-values",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Get Numbers",
   "keywords": [
     "integer",
@@ -198,7 +198,7 @@
     "@positive-numbers/sixty-four": "*",
     "@positive-numbers/sixty-nine": "*",
     "@positive-numbers/sixty-one": "*",
-    "@positive-numbers/sixty-seven": "*",
+    "@positive-numbers/sixty-seven": "4.0.0",
     "@positive-numbers/sixty-six": "*",
     "@positive-numbers/sixty-three": "*",
     "@positive-numbers/sixty-two": "*",

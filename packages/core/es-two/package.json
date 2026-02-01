@@ -1,0 +1,35 @@
+{
+  "name": "es-two",
+  "version": "1.0.1",
+  "description": "Exports 2",
+  "keywords": [
+    "two"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/es-two#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "function.apply-x": "1.0.0",
+    "function.call-x": "1.0.0",
+    "literally": "^1.0.0",
+    "lodash.stubarray": "4.13.0",
+    "two-shim": "^1.0.0",
+    "uncurry-x": "1.0.1"
+  },
+  "devDependencies": {}
+}

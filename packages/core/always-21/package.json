@@ -1,0 +1,38 @@
+{
+  "name": "always-21",
+  "version": "1.0.1",
+  "description": "this is always 21",
+  "keywords": [
+    "21"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/always-21#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "ISC",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@lowercase-letters/e": "3.0.0",
+    "@lowercase-letters/i": "3.0.0",
+    "@lowercase-letters/l": "3.0.0",
+    "@lowercase-letters/n": "3.0.0",
+    "@lowercase-letters/o": "3.0.0",
+    "@lowercase-letters/s": "3.0.0",
+    "@lowercase-letters/t": "3.0.0",
+    "@lowercase-letters/v": "3.0.0",
+    "@lowercase-letters/w": "3.0.0",
+    "@lowercase-letters/x": "3.0.0",
+    "@lowercase-letters/y": "3.0.0",
+    "@rightpad/concat": "1.0.0",
+    "async.util.identity": "0.5.2"
+  }
+}

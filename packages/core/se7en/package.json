@@ -1,0 +1,30 @@
+{
+  "name": "se7en",
+  "version": "1.0.1",
+  "description": "The number seven for javascript.",
+  "keywords": [
+    "SEVEN",
+    "number",
+    "ten",
+    "fifty"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/packages/core/se7en#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "tj-commits",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "five": "0.8.0"
+  },
+  "devDependencies": {}
+}

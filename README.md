@@ -55,7 +55,7 @@ const negTwo = require("@negative-numbers/two")
 const answer = forty + negTwo // 38
 ```
 
-## Architecture
+## Main Architecture
 
 The library follows a hub-and-spoke model where the main `integer-values` package aggregates all individual integer packages:
 
@@ -74,12 +74,44 @@ packages/
 │   ├── two/
 │   ├── ...
 │   └── one-hundred/
+├── core/
+│   ├── ...
 index.js
 index.d.ts
 test-suite.js
 ```
 
 Each package in the `@positive-numbers` and `@negative-numbers` namespace exports a single, verified integer constant.
+
+`integer-values` also includes some internal packages in its repository that are used internally by the `@positive-numbers/` packages. They are under the `core` directory in the `packages` folder. We recommend that you do not use these directly, but here is a list of them:
+
+- [integer-value-positive-zero](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-zero) - A package that exports a function that returns zero.
+- [libnumbers](https://github.com/10xly/integer-values/tree/main/packages/core/libnumbers) - A package that exports two functions: one that returns zero, and one that returns eighteen.
+- [integer-value-positive-one](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-one) - A package that exports a function that returns one.
+- [es-two](https://github.com/10xly/integer-values/tree/main/packages/core/es-two) - A package that exports the number two.
+- [integer-value-positive-two](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-two) - A package that exports a function that returns two.
+- [numeric-constant-three](https://github.com/10xly/integer-values/tree/main/packages/core/numeric-constant-three) - A package that exports a function that returns three.
+- [integer-value-positive-three](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-three) - A package that exports a function that returns three.
+- [always-four](https://github.com/10xly/integer-values/tree/main/packages/core/always-four) - A package that exports a function that returns four.
+- [integer-value-positive-four](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-four) - A package that exports a function that returns four.
+- [integer-value-positive-five](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-five) - A package that exports a function that returns five.
+- [number-six](https://github.com/10xly/integer-values/tree/main/packages/core/number-six) - A package that exports a function that returns six.
+- [integer-value-positive-six](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-six) - A package that exports a function that returns six.
+- [se7en](https://github.com/10xly/integer-values/tree/main/packages/core/se7en) - A package that exports a function that returns seven.
+- [integer-value-positive-seven](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-seven) - A package that exports a function that returns seven.
+- [integer-value-positive-eight](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-eight) - A package that exports a function that returns eight.
+- [value-nine](https://github.com/10xly/integer-values/tree/main/packages/core/value-nine) - A package that exports a function that returns nine.
+- [integer-value-positive-nine](https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-nine) - A package that exports a function that returns nine.
+- [the-number-ten](https://github.com/10xly/integer-values/tree/main/packages/core/the-number-ten) - A package that exports ten.
+- [tw12ve](https://github.com/10xly/integer-values/tree/main/packages/core/tw12ve) - A package that exports a function that returns twelve.
+- [seventeen-integer](https://github.com/10xly/integer-values/tree/main/packages/core/seventeen-integer) - A package that exports a function that returns seventeen.
+- [eighteen-positive-number-interactions](https://github.com/10xly/integer-values/tree/main/packages/core/eighteen-positive-number-interactions) - A package that exports a function that returns eighteen.
+- [nineteenify](https://github.com/10xly/nineteenify) - A package that exports a function that returns nineteen. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
+- [numbertwenty](https://github.com/10xly/numbertwenty) - A package that exports a function that returns nineteen. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
+- [always-21](https://github.com/10xly/integer-values/tree/main/packages/core/always-21) - A package that exports a function that returns 21.
+- [numbertwentyfour](https://github.com/10xly/integer-values/tree/main/packages/core/numbertwentyfour) - A package that exports a function that returns 24.
+- [sixty-seven](https://github.com/10xly/integer-values/tree/main/packages/core/sixty-seven) - A package that exports a function that returns sixty-seven.
+- [libeightyseven](https://github.com/10xly/libeightyseven) - A package that exports a function that returns eighty-seven. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
 
 ## Testing
 

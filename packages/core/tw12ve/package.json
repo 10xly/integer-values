@@ -1,0 +1,32 @@
+{
+  "name": "tw12ve",
+  "version": "1.0.1",
+  "description": "The number twelve",
+  "keywords": [
+    "twelve",
+    "number",
+    "twelve",
+    "twelve",
+    "12"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/tw12ve#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eleven": "^0.0.1",
+    "lodash.constant": "^3.0.0",
+    "successor": "^1.0.1"
+  }
+}

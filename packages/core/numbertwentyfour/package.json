@@ -1,0 +1,36 @@
+{
+  "name": "numbertwentyfour",
+  "version": "1.0.2",
+  "description": "It's 24!",
+  "keywords": [
+    "24",
+    "24",
+    "24",
+    "24"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/numbertwentyfour#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "add-two-numbers2": "^1.0.0",
+    "array-find": "^1.0.0",
+    "indexof": "^0.0.1",
+    "returndotjs": "^1.0.0",
+    "the-number-one": "^1.0.1",
+    "true": "^0.0.4",
+    "twenty-four": "^25.0.0"
+  }
+}

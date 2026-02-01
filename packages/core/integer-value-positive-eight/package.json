@@ -1,0 +1,31 @@
+{
+  "name": "integer-value-positive-eight",
+  "version": "1.0.1",
+  "description": "Eight.",
+  "keywords": [
+    "eight",
+    "nine",
+    "ten",
+    "eleven"
+  ],
+  "homepage": "https://github.com/10xly/integer-value-positive-eight#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-value-positive-eight/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-value-positive-eight.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "const": "^1.0.0",
+    "eight-toolkit": "^1.0.0"
+  },
+  "devDependencies": {}
+}

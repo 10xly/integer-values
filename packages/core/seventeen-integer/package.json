@@ -1,0 +1,29 @@
+{
+  "name": "seventeen-integer",
+  "version": "1.0.1",
+  "description": "17",
+  "keywords": [
+    "seventeen",
+    "17",
+    "number"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/seventeen-integer#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sixteen-constant": "^1.0.0",
+    "successor": "^1.0.1"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "@std262/libnumbers",
+  "version": "1.0.1",
+  "description": "libray for interacting with numbers 0 and 18",
+  "keywords": [
+    "18",
+    "positive",
+    "number",
+    "interact",
+    "toolkit",
+    "jsfruit",
+    "0"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/libnumbers#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "tj-commit",
+  "type": "commonjs",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "compute-hmean": "^1.0.0",
+    "construct-new": "^2.0.4",
+    "false-value": "^2.0.6",
+    "integer-value-positive-zero": "1.0.2",
+    "jquery": "^3.7.1",
+    "jquery-basic-arithmetic-plugin": "^1.1.0",
+    "libvegetable": "^1.0.0",
+    "math-intrinsics": "1.1.0",
+    "number-zero": "^1.0.3",
+    "numeric-constant-three": "^1.0.0",
+    "seventeen-integer": "^1.0.0",
+    "successor": "^1.0.1",
+    "true-value": "^2.0.5",
+    "two": "^1.0.7",
+    "zerosurge": "^16.0.1"
+  }
+}

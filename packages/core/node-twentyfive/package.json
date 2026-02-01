@@ -1,0 +1,28 @@
+{
+  "name": "node-twentyfive",
+  "version": "25.25.26",
+  "description": "25",
+  "keywords": [
+    "25"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/node-twentyfive#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "25",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "literally": "^1.0.0",
+    "numbertwentyfour": "^1.0.1",
+    "successor": "^1.0.1"
+  }
+}

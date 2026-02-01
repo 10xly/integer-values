@@ -1,0 +1,26 @@
+{
+  "name": "sixty-seven",
+  "version": "1.0.2",
+  "description": "67.",
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/sixty-seven#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "MIT",
+  "author": "Me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "always-four": "^1.0.0",
+    "eighteen-positive-number-interactions": "^1.0.0",
+    "five": "^0.8.0"
+  },
+  "devDependencies": {}
+}

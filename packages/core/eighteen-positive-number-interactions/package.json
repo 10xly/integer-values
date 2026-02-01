@@ -1,0 +1,41 @@
+{
+  "name": "eighteen-positive-number-interactions",
+  "version": "1.0.1",
+  "description": "Positive number interactions with the integeric value 18 which is a positive number",
+  "keywords": [
+    "18",
+    "positive",
+    "number",
+    "interact",
+    "toolkit",
+    "jsfruit"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/eighteen-positive-number-interactions#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git"
+  },
+  "license": "UNLICENSED",
+  "author": "tj-commit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "compute-hmean": "^1.0.0",
+    "false": "^0.0.4",
+    "integer-value-positive-zero": "^1.0.0",
+    "jquery": "^3.7.1",
+    "jquery-basic-arithmetic-plugin": "^1.1.0",
+    "libvegetable": "^1.0.0",
+    "number-zero": "^1.0.3",
+    "numeric-constant-three": "^1.0.0",
+    "seventeen-integer": "^1.0.0",
+    "successor": "^1.0.1",
+    "two": "^1.0.7"
+  }
+}

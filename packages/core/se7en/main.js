@@ -1,0 +1,1 @@
+module.exports=((x) => x).bind(null, require("five")() + (require("five")()/require("five")()) + (require("five")()/require("five")()))

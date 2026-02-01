@@ -1,0 +1,31 @@
+{
+  "name": "integer-value-positive-nine",
+  "version": "1.0.1",
+  "description": "Nine.",
+  "keywords": [
+    "eight",
+    "nine",
+    "ten",
+    "eleven"
+  ],
+  "homepage": "https://github.com/10xly/integer-values/tree/main/packages/core/integer-value-positive-nine#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/integer-values/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/integer-values.git#main"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "es-intrinsic-cache": "1.0.4",
+    "value-nine": "^9.0.0"
+  },
+  "devDependencies": {}
+}
