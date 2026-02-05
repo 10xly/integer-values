@@ -107,7 +107,7 @@ Each package in the `@positive-numbers` and `@negative-numbers` namespace export
 - [seventeen-integer](https://github.com/10xly/integer-values/tree/main/packages/core/seventeen-integer) - A package that exports a function that returns seventeen.
 - [eighteen-positive-number-interactions](https://github.com/10xly/integer-values/tree/main/packages/core/eighteen-positive-number-interactions) - A package that exports a function that returns eighteen.
 - [nineteenify](https://github.com/10xly/nineteenify) - A package that exports a function that returns nineteen. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
-- [numbertwenty](https://github.com/10xly/numbertwenty) - A package that exports a function that returns nineteen. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
+- [numbertwenty](https://github.com/10xly/numbertwenty) - A package that exports a function that returns twenty. Note that this one has its own repository - it's not in this one. You can find its repository by the link.
 - [always-21](https://github.com/10xly/integer-values/tree/main/packages/core/always-21) - A package that exports a function that returns 21.
 - [numbertwentyfour](https://github.com/10xly/integer-values/tree/main/packages/core/numbertwentyfour) - A package that exports a function that returns 24.
 - [sixty-seven](https://github.com/10xly/integer-values/tree/main/packages/core/sixty-seven) - A package that exports a function that returns sixty-seven.
