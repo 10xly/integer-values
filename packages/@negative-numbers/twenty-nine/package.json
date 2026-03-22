@@ -1,6 +1,6 @@
 {
   "name": "@negative-numbers/twenty-nine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides the number negative twenty nine",
   "keywords": [
     "number",
@@ -19,6 +19,6 @@
   "author": "10x'ly Made",
   "dependencies": {
     "@positive-numbers/twenty-nine": "*",
-    "countingup": "countingup-legacy-first-version"
+    "countingup": "0.0.2"
   }
 }

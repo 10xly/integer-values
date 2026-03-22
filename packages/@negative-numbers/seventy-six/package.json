@@ -1,6 +1,6 @@
 {
   "name": "@negative-numbers/seventy-six",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides the number negative seventy six",
   "keywords": [
     "number",
@@ -19,6 +19,6 @@
   "author": "10x'ly Made",
   "dependencies": {
     "@positive-numbers/seventy-six": "*",
-    "countingup": "countingup-legacy-first-version"
+    "countingup": "0.0.2"
   }
 }
